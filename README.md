@@ -1,5 +1,5 @@
 # Building a Theremin
-We are building a theremin for our Engineering Capstone project. test test
+We are building a theremin for our Engineering Capstone project.
 
 ## Summary
 The goal of this project is to research the science behind the theremin, an electronic instrument that uses two antennas to produce a controllable sound signal. By the end of the school year we will have a working instrument and hopefully the skill to make music with it as well.
