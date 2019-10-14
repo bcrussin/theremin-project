@@ -39,6 +39,6 @@ By itself, the theremin has no need for an Arduino or Raspberry Pi.  However, in
 
 ## Team Members
 We are a two-person team.  This project facilitates us working together most of the time, but we both have our strengths as well.
-*Barrett  will  oversee  the  ordering  of  electrical  components  and  once  thetheremin is nearing completion he will look into programming a visualizertool.
-*Amara  will  be  designing  the  theremin  and  laser  cutting  or  3D  printingany necessary components.
-*We will be working together to wire the circuitry and assemble the box
+* Barrett  will  oversee  the  ordering  of  electrical  components  and  once  thetheremin is nearing completion he will look into programming a visualizertool.
+* Amara  will  be  designing  the  theremin  and  laser  cutting  or  3D  printingany necessary components.
+* We will be working together to wire the circuitry and assemble the box
