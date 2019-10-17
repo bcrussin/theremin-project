@@ -15,7 +15,7 @@ We have very little knowledge about how theremins produce sound so we will have 
 There is some amount of risk with this project. we will be building a fairly large device with many specialized electronic parts, meaning that mistakes in the design process can be expensive and time consuming. we will take the time to consider how each part works within the assembly and make sure every part we order will work as intended.
 
 ## Introduction
-Both of us like studying and making music, and unique musical instruments are especially interesting.  The theremin stood out an odd instrument that has a unique sound and can be assembled using fairly standard electronic parts.  It can be built over the course of a school year. 
+Both of us like studying and making music, and unique musical instruments are especially interesting.  The theremin stood out an odd instrument that has a unique sound and can be assembled using fairly standard electronic parts.  It can be built over the course of a school year. The theremin was invented in 1920 by Russian scientist L ́eon Theremin. The instrument was a popular instrument through the 1930's and early 40's, though never quite successful commercially. Today, the theremin is popular among electronics enthusiasts and hobbyists.
 
 If we want to successfully build a working theremin, we will need to learn a  lot  about  electrical  engineering.   This  project  will  be  both  a  technical  and musical challenge.
 
