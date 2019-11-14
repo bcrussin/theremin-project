@@ -9,16 +9,32 @@ float g;
 float b;
 color bkg;
 
-FloatList freq;
-
-int buffer = 50;
+int buffer = 500;
 float range = 3000;
+int A4 = 440;
+float C0;
+
+String[] notes = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
+FloatList freq;
 float step;
 int avg;
+
+String pitch(float freq) {
+  int h = round(12 * log(freq / C0) / log(2));
+  int octave = floor(h / 12);
+  int n = h % 12;
+  
+  String result;
+  if(n > -1 && n < 12) result = notes[n] + str(octave);
+  else result =  "none";
+  
+  return result;
+}
 
 void setup() {
   size(512, 200);
   step = width / range;
+  C0 = A4 * pow(2, -4.75);
   freq = new FloatList();
   minim = new Minim(this);
   input = minim.getLineIn(Minim.STEREO, 2048);
@@ -54,5 +70,5 @@ void draw() {
   fill(255);
   textSize(14);
   textAlign(LEFT, TOP);
-  text(avg, 5, 5);
+  text(pitch(avg), 5, 5);
 }
