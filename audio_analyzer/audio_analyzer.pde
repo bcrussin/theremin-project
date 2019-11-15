@@ -51,7 +51,7 @@ void draw() {
     g = abs(tan(i * (1 - step) / range) * 255);
     b = abs(cos(i * (1 - step) / range) * 255);
     stroke(r, g, b);
-    line(i * step, height, i * step, height - fft.getFreq(i) * 10);
+    line(i * step, height, i * step, height - fft.getFreq(i) * 15);
     if(fft.getFreq(i) > max) {
       bkg = color(r / 2, g / 2, b / 2);
       max = i;
