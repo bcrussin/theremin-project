@@ -1,7 +1,7 @@
 # Audio Analyzer Tool
 In order to make our project more interactive and include more programming, we are writing this Processing sketch that will act as a tuner.
 
-![Thumb](../images/audio_analyzer_chord.png)
+![Thumb](/images/audio_analyzer_chord.PNG)
 
 ## Features:
 * Can detect audio input through the computer mic
