@@ -1,0 +1,6 @@
+![Fixed pitch oscillator](/images/circuits/fixed_pitch_oscillator_schematic.png)
+![Fixed pitch oscillator PCB](/images/circuits/fixed_pitch_oscillator_pcb.png)
+![Variable pitch oscillator](/images/circuits/variable_pitch_oscillator_schematic.png)
+![Variable pitch oscillator PCB](/images/circuits/variable_pitch_oscillator_pcb.png)
+![Volume oscillator](/images/circuits/volume_oscillator_schematic.png)
+![Volume oscillator PCB](/images/circuits/volume_oscillator_pcb.png)
