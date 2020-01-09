@@ -6,3 +6,4 @@
 | Oct <br/> 28-31 | Work was put into organizing the GitHub repository and Google Drive folder. A slack channel was created for the project as well. |
 | Nov <br/> 6-8 | We spent our three-day week building a small oscillator from parts found around the lab. We will test it next week. |
 | Nov <br/> 11-15 | Barrett took some time to familiarize himself with Processing and an audio analysis library. Amara worked on CAD models for the instrument case. |
+| Dec <br/> 2-6 | A lot of organization work was done this week. We created most of our midterm presentation and then cleaned up our GitHub repo and started designing a shelf system for our boxes to create space for more parts. |
