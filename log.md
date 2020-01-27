@@ -9,3 +9,4 @@
 | Dec <br/> 2-6 | A lot of organization work was done this week. We created most of our midterm presentation and then cleaned up our GitHub repo and started designing a shelf system for our boxes to create space for more parts. |
 | Jan <br/> 6-10 | We began building prototype circuits on breadboards. Amara worked on the variable pitch oscillator and Barrett worked on the power supply. |
 | Jan <br/> 13-17 | We spent this week trying to get a consistent sinusoidal output from our variable pitch oscillator circuit. More work needs to be done. |
+| Jan <br/> 20-24 | Amara used a circuit simulation program to simulate our oscillator and see how we can get it to provide a consistent output. Barrett got some wiring work done and looked to see where we could order some transistors we seem to be missing. |
