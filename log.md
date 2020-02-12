@@ -11,3 +11,4 @@
 | Jan <br/> 13-17 | We spent this week trying to get a consistent sinusoidal output from our variable pitch oscillator circuit. More work needs to be done. |
 | Jan <br/> 20-24 | Amara used a circuit simulation program to simulate our oscillator and see how we can get it to provide a consistent output. Barrett got some wiring work done and looked to see where we could order some transistors we seem to be missing. |
 | Jan <br/> 27-31 | Barrett completed the fixed pitch oscillator prototype that we will test next week. Amara discovered that we were not testing our oscillators with a true direct current so she found a power supply that will hopefully provide more accurate results. |
+| Feb <br/> 3-7 | With a consistent power supply, Amara was able to complete the variable pitch oscillator and produce a sinusoidal output. We will move on to the fixed pitch oscillator next week. |
