@@ -13,3 +13,5 @@
 | Jan <br/> 27-31 | Barrett completed the fixed pitch oscillator prototype that we will test next week. Amara discovered that we were not testing our oscillators with a true direct current so she found a power supply that will hopefully provide more accurate results. |
 | Feb <br/> 3-7 | With a consistent power supply, Amara was able to complete the variable pitch oscillator and produce a sinusoidal output. We will move on to the fixed pitch oscillator next week. |
 | Feb <br/> 17-21 | We started building our own power supply circuit this week but after a few complications and missing parts we found a power supply in an old computer that fit our needs perfectly. Next week we will begin migrating our circuits to the large Makeronics breadboard we ordered and work on the amplifier circuit as well. |
+| Feb <br/> 24-28 | Amara began the process of moving our prototype modules to a single large breadboard. Barrett printed a new shelf for his box and added some information to our final report. |
+| Mar <br/> 2-6 | We identified the resistors that we don't have in the Sigma Lab and looked into getting them ordered. We continued our tasks from last week. |
